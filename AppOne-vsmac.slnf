@@ -1,0 +1,14 @@
+{
+  "solution": {
+    "path": "AppOne.sln",
+    "projects": [
+		"AppOne.Shared\\AppOne.Shared.shproj",
+
+		"AppOne.Mobile\\AppOne.Mobile.csproj",
+
+		"AppOne.Wasm\\AppOne.Wasm.csproj",
+
+		"AppOne.Skia.Gtk\\AppOne.Skia.Gtk.csproj",
+    ]
+  }
+}
